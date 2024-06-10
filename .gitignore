@@ -55,4 +55,4 @@ dkms.conf
 .idea
 
 #build files
-build
+build/*

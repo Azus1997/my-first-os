@@ -24,7 +24,7 @@ main:
 ; following code will loop the defining of a constant byte (510 - [size of the current program]) times
 ; $: symbol equal to the memory offset of the current line
 ; $$: symbol equal to the memory offset of the current section
-; ($-$$) returns length of current section ::SO FAR:: in bytes
+; ($-$$) returns length of current section /\SO FAR/\ in bytes
 times 510-($-$$) db 0
 ; up to here the code's size is 510 bytes
 
