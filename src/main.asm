@@ -1,4 +1,4 @@
-org 07xC00
+org 0x7C00
 bits 16
 ; LEGENDARIUM:
 ;  Directives: give assembler clues that will affect how the program is compiled.

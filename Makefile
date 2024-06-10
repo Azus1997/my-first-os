@@ -1,7 +1,5 @@
-#tell make that it will build an assembly language program
-ASM = nasm
-
 # declare constants for maintenance
+ASM = nasm
 SRC_DIR = src
 BUILD_DIR = build
 

@@ -17,3 +17,4 @@ downloading, editing or any other use or misuse of the project contents.
 
 <i>Sources:</i> <br>
 course followed, all credits to its owner: https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN
+makefile cheatsheet, all credits to its owner: https://cs.fit.edu/~mmahoney/cse3101/nasmdoc2.html
